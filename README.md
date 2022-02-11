@@ -22,6 +22,3 @@ The server will automatically open the default browser on port 3000
 
 ### `Note`
 All commands are to be executed from the root direcotry of the project.
-
-
-# @@@@THIS IS AN OPEN SOURCE PROJECT FOR LEARNING PURPOSES.
