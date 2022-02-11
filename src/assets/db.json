@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "body": "@New study skill\n-practise your code everyday\n-practise makes perfect\n-Hallo world ",
+      "updated": "2022-02-11T12:34:31.191Z",
+      "id": 1
+    },
+    {
+      "body": "@React study structure\n-components\n-function and class components\n-state management\n-hooks\n-routing using react-router-dom\n-styling",
+      "updated": "2022-02-11T12:14:30.037Z",
+      "id": 2
+    },
+    {
+      "body": "@Now We're styling the page\n-need to see seperated body tags",
+      "updated": "2022-02-11T12:57:15.686Z",
+      "id": 3
+    },
+    {
+      "body": "@Django study path\n\n-views\n-modals\n-forms\n-templates modal\n-REST API",
+      "updated": "2022-02-11T12:28:11.068Z",
+      "id": 4
+    },
+    {
+      "body": "What is Lorem Ipsum?Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "updated": "2022-02-11T12:42:23.938Z",
+      "id": 5
+    }
+  ]
+}
